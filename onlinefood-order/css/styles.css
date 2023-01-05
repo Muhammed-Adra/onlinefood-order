@@ -1,0 +1,16 @@
+.container{
+    width: 65%;
+}
+.button1{
+    background: #4CAF50;
+}
+.button1 a{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    margin: 6px 30px;
+}
+.text{
+    text-align: center;
+}
